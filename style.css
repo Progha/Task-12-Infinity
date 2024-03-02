@@ -1,0 +1,60 @@
+.first{
+    background-image: url("Images/bg-parallax.jpg");
+    background-size: cover;
+    color: orangered;
+}
+.fa-brands{
+    border-radius: 100%;
+    background: gainsboro;
+    padding: 8px;
+}
+.fa-solid{
+    border-radius: 100%;
+    background: gainsboro;
+    padding: 8px;
+}
+.nav-link{
+    font-weight: bold;
+}
+.iconBtn:hover{
+    background: black;
+    color: orangered;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+  }
+  .seo{
+    background: orangered;
+    color: linen;
+    border-radius: 20%;
+    padding: 10px;
+  }
+  .seo:hover{
+    background: rgb(58,173,180);
+    background: linear-gradient(90deg, rgba(58,173,180,1) 0%, rgba(253,232,29,1) 50%, rgba(217,63,118,1) 100%);
+    color: black;
+  }
+.click{
+    height: 3rem;
+    width: 9rem;
+    background: orangered;
+    color: white;
+}
+.click:hover{
+    background: rgb(58,173,180);
+    background: linear-gradient(90deg, rgba(58,173,180,1) 0%, rgba(253,232,29,1) 50%, rgba(217,63,118,1) 100%);
+}
+.meow{
+    background-color: rgba(211, 211, 211, 0.123);
+    margin-top: 50px;
+    padding-top: 100px;
+}
+.service{
+    background-image: url("Images/bg-parallax.jpg");
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
