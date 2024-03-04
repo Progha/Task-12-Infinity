@@ -8,6 +8,14 @@
     background: gainsboro;
     padding: 8px;
 }
+.fa-brands:hover{
+    background-color: orangered;
+    color: black;
+}
+.fa-solid:hover{
+    background-color: orangered;
+    color: black;
+}
 .fa-solid{
     border-radius: 100%;
     background: gainsboro;
@@ -57,4 +65,7 @@
     text-align: center;
     padding-top: 80px;
     padding-bottom: 80px;
+}
+.case:hover{
+   opacity: 0.5;
 }
