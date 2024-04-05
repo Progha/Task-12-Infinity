@@ -69,3 +69,7 @@
 .case:hover{
    opacity: 0.5;
 }
+.foot:hover{
+    margin-left: 11px;
+    color: orangered;
+}
